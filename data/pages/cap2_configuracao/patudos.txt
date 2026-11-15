@@ -1,0 +1,25 @@
+======  Página "Os Nossos Patudos" ======
+
+A página "Os Nossos Patudos" funciona como a montra principal dos verdadeiros protagonistas do "Neko Café": os gatos residentes. Sob o mote "Sempre carinhosos, curiosos & cheios de energia", esta secção foi desenvolvida com o objetivo de criar uma ligação emocional imediata com o utilizador, apresentando cada animal de forma individualizada e cativante.
+
+Do ponto de vista do design e da experiência do utilizador (UX), a prioridade foi garantir um layout limpo e altamente visual, onde as imagens de alta qualidade dos felinos ganham o devido destaque sem sobrecarregar a navegação.
+
+Tem associada a página de Notícias, construída através de um bloco de Blog-feed com barra de pesquisa, comentários ativos e publicação de posts (ex: “O Mistério das Colheres Desaparecidas”).
+
+Para a estruturação desta página no WordPress, foram aplicadas as seguintes técnicas e componentes:
+  * **Galeria/Grelha de Perfis:** Organização dos animais numa estrutura de blocos ou colunas simétricas, facilitando a visualização geral de todo o grupo;
+  * **Elementos Visuais Personalizados:** Integração de ilustrações, texturas ou pequenos ícones felinos que reforçam a identidade gráfica e o tom lúdico do projeto;
+  * **Microcopia Coerente:** Utilização de pequenos textos descritivos e subtítulos emotivos que mantêm a consistência da linguagem de comunicação adotada em todo o site.
+
+Seguem-se as capturas de ecrã que demonstram o design da interface e a disposição gráfica da página de apresentação dos patudos:
+
+
+{{:cap2_configuracao:picture17.png?nolink|}}
+
+{{:cap2_configuracao:picture16.png?nolink|}}
+
+{{:cap2_configuracao:picture18.png?nolink|}}
+{{:cap2_configuracao:picture19.png?nolink|}}
+{{:cap2_configuracao:picture20.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 15:30//

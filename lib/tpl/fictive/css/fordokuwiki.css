@@ -1,0 +1,129 @@
+/* desbest edit */
+#qsearch__in{ background-color: white; max-width: 60.2%; }
+.toolbutton { background-color: #abe3e6; }
+.toolbutton:hover { background-color: #6f9d9f; }
+#document-toggle:before { content: "\f443"; }
+.page li { display: list-item; }
+button { margin: 3px 8px; }
+
+.user { margin: 1em 0px; }
+
+#writtensidebar h1 { /* .written-title */
+  font-size: 1.25em;
+  line-height: 1.2em;
+  border-bottom: 1px solid #e4e1dc;
+  color: #6f9d9f;
+  font-weight: bold;
+  margin: 12px 0;
+  padding: 12px 24px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+#writtensidebar a { padding: 0px; background-image: none; }
+#writtensidebar ul { padding: 0px; margin: 0px 0px; }
+#writtensidebar a:link, #writtensidebar a:visited { color: #bd5532; }
+#writtensidebar a:hover { color: #6f9d9f; transition: all 0.2s ease-in-out; }
+
+#writtensidebar ul li {
+  border-bottom: 1px solid #e4e1dc;
+  list-style: none;
+  margin: 0px;
+  padding: 12px;
+  padding-left: 24px;
+  display: block;
+  font-size: 13px;
+}
+
+#writtensidebar ul li:first-child {
+  padding-top: 0px;
+}
+
+
+/* =Menu */
+.document-tools {
+  font-size: 0.8125em;
+  line-height: 1.84615em;
+  clear: both;
+  display: block;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 0 auto 24px;
+  position: relative;
+  max-width: 60em;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  width: 100%;
+}
+.document-tools ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+  position: relative;
+}
+.document-tools li {
+  display: block;
+  position: relative;
+}
+
+.inlinemenu li{
+  display: inline-block;
+}
+
+.document-tools li li a {
+  padding-left: 48px;
+}
+.document-tools li li li a {
+  padding-left: 72px;
+}
+.document-tools a {
+  border-bottom: 1px solid #e4e1dc;
+  color: #6f9d9f;
+  display: block;
+  margin-bottom: 6px;
+  padding: 12px 24px;
+  position: relative;
+  text-decoration: none;
+}
+.document-tools a:hover {
+  color: #bd5532;
+}
+.document-tools .current_page_item > a,
+.document-tools .current-menu-item > a {
+  color: #bd5532;
+}
+
+#mediamanager__page {
+  min-width: 36em;
+}
+
+
+
+/* config manager */
+
+/*#config__manager fieldset { clear: both; }*/
+#config__manager table { min-width: 10%; width: 100%; }
+/*fieldset { word-wrap: anywhere; }*/
+#config__manager table { border-collapse: revert; border-spacing: 0px 1.85em; }
+#config__manager tr { padding: 1em 0px; }
+#config__manager td.label span.outkey { font-size: 1.15em !important; }
+#config__manager fieldset td.value { width: 25%; }
+
+/*select { display: none; }*/
+/* defined in /lib/plugin/config.style.css */
+#config__manager td input.edit {
+    max-width: 14em;
+}
+#config__manager td .input {
+    min-width: 50%;
+    /*width: 90%;*/
+    width: unset;
+    /*width: max-content;*/
+}
+#config__manager td select.edit { }
+#config__manager td textarea.edit {
+    width: 100%;
+    height: 4em;
+}
+
+/* ------ */

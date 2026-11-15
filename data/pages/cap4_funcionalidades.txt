@@ -1,0 +1,16 @@
+====== Funcionalidades e Plugins ======
+
+A gestão eficiente de conteúdos na nossa plataforma assenta-se na escolha e configuração estratégica de plugins e funcionalidades nativas do __DokuWiki__. Esta secção visa documentar as ferramentas técnicas que expandem a capacidade do sistema, garantindo a dinâmica, segurança e organização necessárias para o projeto.
+
+A arquitetura desta secção divide-se em duas vertentes operacionais e analíticas fundamentais, acessíveis através dos links abaixo:
+
+^ Conteúdos Principais ^ Funcionalidades Principais (Plugins) ^
+| • Mapeamento estrutural das páginas e Posts. Conteúdo estruturado das páginas do *NekoCafe* | • Identificação dos plugins instalados  e das capacidades operacionais que transformam o texto bruto num documento web interativo. |
+---
+===== Objetivos da Implementação Técnica =====
+
+Para contextualizar a análise que se segue nas subpáginas, o ecossistema de plugins foi selecionado com base em três pilares críticos:
+
+  - **Otimização da Experiência do Utilizador (UX)**: Garantir que a inserção e a leitura de dados sejam fluidas, contornando as limitações visuais nativas do DokuWiki.
+  - **Sintaxe Simplificada**: Permitir que o grupo de trabalho utilize componentes visuais complexos (como matrizes e blocos de destaque) sem a necessidade de programar código CSS ou HTML externo de forma repetitiva.
+  - **Consistência Estrutural**: Manter a conformidade visual com o template escolhido, evitando quebras de layout ou incompatibilidades de código entre os diferentes blocos de conteúdo.

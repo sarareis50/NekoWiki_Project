@@ -1,0 +1,15 @@
+====== Tema do Site ======
+
+
+Para a criação do site no TP1 (__NekoCafe__) a escolha do tema é __fundamental__.
+
+Foi escolhido um tema com foco nos três seguintes pontos, **estética temática**, **foco na navegação** e **personalização**.
+
+O tema que engloba estes três pontos e que mais se destacou ao testar o seu template é o "__Coffee Shop__". Na nossa visão este tema integra elementos visuais que remetem ao ambiente de café caseiro. O tema em questão facilita a organização das secções, garantindo assim que a informação é apresentada de forma intuitiva e sucinta.
+
+Apesar deste tema ser ideal em todos os aspetos existe sempre algo melhorar, e este tema é ideal para a personalização estética. Foram feitas algumas alterações usando todos os mecanismos do wordpress.org, de forma a aperfeiçoar ainda mais o tema ai nosso estilo e gosto. 
+
+Preview do tema:
+{{:cap1_introducao:imagem_2026-05-28_104348225.png |}}
+
+ --- //[[fmoliveira1999@gmail.com|MiguelOliveira]] 2026/05/28 11:48//

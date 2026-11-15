@@ -1,0 +1,12 @@
+====== 5. CONCLUSÃO ======
+
+O encerramento deste projeto de Desenvolvimento e Gestão de Conteúdos Web representa a consolidação de todo o trabalho prático e analítico realizado em torno do website temático do Café com Gatos ("**Neko Café**"). Esta secção final serve para avaliar os resultados obtidos, refletir sobre as ferramentas utilizadas e apresentar as considerações finais da equipa.
+
+Para uma análise detalhada da fase de encerramento, este capítulo divide-se nas seguintes subpáginas:
+
+===== Estrutura de Conteúdos =====
+
+  * **[[cap5_conclusao:publicacao_e_teste_do_site|Publicação e Teste do Site]]**
+    * Documentação do processo de lançamento da plataforma web e os testes de usabilidade realizados para garantir o correto funcionamento do site.
+  * **[[cap5_conclusao:curiosidades_sobre_o_wordpress|Curiosidades sobre o WordPress]]**
+    *  Contêm algumas curiosidades sobre o WordPress e tambem uma comparação entre o WordPress.org Vs WordPress.com.

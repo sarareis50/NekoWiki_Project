@@ -1,0 +1,10 @@
+2026-06-10 13:59:51		tpl_action() is deprecated. It was called from include() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\lib\tpl\varicolored\main.php:56 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:713 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:593 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_action() is deprecated. It was called from include() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\lib\tpl\varicolored\main.php:57 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:713 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:593 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_action() is deprecated. It was called from include() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\lib\tpl\varicolored\main.php:58 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_actionlink() is deprecated. It was called from tpl_action() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:713 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_get_action() is deprecated. It was called from tpl_actionlink() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\inc\template.php:593 see devel:menus should be used instead!
+2026-06-10 13:59:51		tpl_toolsevent() is deprecated. It was called from include() in C:\Users\saras\Desktop\Xampp\htdocs\websites\dokuwiki3\lib\tpl\varicolored\main.php:55 see devel:menus should be used instead!

@@ -1,0 +1,25 @@
+====== Página Principal (Home) ======
+
+A página Principal, ou Home, constitui o ponto de partida da experiência digital do utilizador no site do "Neko Café". Sendo o primeiro ponto de contacto com o público, esta página foi desenhada para estabelecer a identidade visual da marca e comunicar de forma imediata a essência do projeto através do forte slogan de boas-vindas: "Um café com propósito... e muitos bigodes!".
+
+O grande objetivo de design (UI) nesta secção foi capturar a atenção do visitante logo no primeiro ecrã (área *above the fold*), recorrendo a imagens imersivas de alta qualidade que transmitem o ambiente acolhedor do espaço físico.
+
+Ao nível da estruturação e paginação no WordPress, o layout foi otimizado através dos seguintes elementos estratégicos:
+  * **Cabeçalho de Alto Impacto (Hero Section):** Um banner principal que combina uma tipografia marcante com imagens de fundo emotivas, definindo imediatamente o tom do site;
+  * **Botões de Chamada para Ação (CTA):** Links estratégicos e visíveis (como "Reserve já a sua mesa!") posicionados para guiar o utilizador para as ações principais sem perda de tempo;
+  * **Seções de Introdução ao Conceito:** Blocos de texto resumidos que sintetizam a missão do café, servindo de antevisão para o conteúdo detalhado que se encontra nas restantes páginas do site.
+
+ Organizada em 6 grupos de blocos combinando elementos do template com edições personalizadas de cores, textos e imagens promocionais (destacando os blocos “Mais que um Café”, “A Tua Experiência” e a apresentação rápida dos gatos residentes).
+
+As capturas de ecrã apresentadas em seguida demonstram o design de interface e a hierarquia visual planeada para a página principal:
+
+
+{{:cap2_configuracao:picture7.png?nolink|}}
+{{:cap2_configuracao:home.png?nolink|}}
+{{:cap2_configuracao:picture2.png?nolink|}}
+{{:cap2_configuracao:picture3.png?nolink|}}
+{{:cap2_configuracao:picture4.png?nolink|}}
+{{:cap2_configuracao:picture5.png?nolink|}}
+{{:cap2_configuracao:picture6.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 14:31//

@@ -1,0 +1,26 @@
+====== Página do Menu ======
+
+A página do Menu constitui a espinha dorsal informativa do "Neko Café" no que diz respeito à sua oferta comercial. Sob o mote "O Nosso Menu Miau!", esta secção foi projetada para funcionar como um cardápio digital claro, apelativo e de consulta rápida, permitindo aos clientes conhecer a variedade de produtos disponíveis antes mesmo de visitarem o espaço físico.
+
+O principal objetivo de design (UI) nesta página foi a estruturação da informação, garantindo que a leitura dos produtos, ingredientes e preços seja intuitiva e não cause ruído visual.
+
+Ao nível do desenvolvimento no WordPress, o conteúdo foi trabalhado com base nos seguintes critérios:
+  * **Hierarquia e Categorização:** Organização dos produtos por secções lógicas, permitindo que o utilizador distinga facilmente as bebidas, a pastelaria e os snacks temáticos;
+  * **Fotografia de Contexto (Banners):** Inclusão de imagens panorâmicas no topo da página que remetem ao ambiente de cafetaria, abrindo o apetite e capturando a atenção do visitante;
+  * **Estética Coerente:** Aplicação de cores e tipografias alinhadas com o tema "The Coffee Shop", reforçando a identidade gráfica de um café moderno e acolhedor.
+
+ Menu e Subpáginas: O Menu divide-se em 4 blocos e ramifica-se em duas páginas dedicadas:
+
+CAFÉS & RONRONS: Ementa completa dividida em secções que apresentam o catálogo de bebidas (ex: Pumpkin Spice Latte, Meow-chiato).
+MIMOS DO BIGODE: Apresentação detalhada da ementa de pastelaria e aperitivos alimentares.
+
+As capturas de ecrã apresentadas em seguida demonstram o layout e a organização visual da página do Menu:
+
+{{:cap2_configuracao:picture42.png?nolink|}}
+
+{{:cap2_configuracao:picture12.png?nolink|}}
+{{:cap2_configuracao:picture13.png?nolink|}}
+{{:cap2_configuracao:picture14.png?nolink|}}
+{{:cap2_configuracao:picture15.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 15:36//

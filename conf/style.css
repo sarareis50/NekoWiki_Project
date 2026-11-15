@@ -1,0 +1,7 @@
+/* Mudar a cor de fundo da Sidebar para Creme */
+#dokuwiki__aside, .aside, #hk_sidebar {
+    background-color: #F5EBE0 !important;
+    padding: 15px !important;
+    border-radius: 4px;
+}
+

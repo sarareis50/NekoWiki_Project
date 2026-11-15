@@ -1,0 +1,36 @@
+====== Curiosidades do Wordpress ======
+
+Após a realização deste trabalho, percebemos que o **WordPress** é uma ferramenta relativamente fácil e muito intuitiva de ser utilizada, na qual não é necessário possuir conhecimentos avançados de programação para construir um site funcional através de código. 
+
+Esta filosofia de acessibilidade é corroborada pela própria plataforma:
+
+"Muitos dos utilizadores finais do WordPress não possuem uma mentalidade técnica. Não sabem o que é AJAX, nem se preocupam com a versão do PHP que estão a utilizar. O utilizador comum do WordPress quer simplesmente ser capaz de escrever sem problemas ou interrupções. É para estes utilizadores que projetamos o software, uma vez que são eles, em última análise, que passarão mais tempo a utilizá-lo para aquilo que foi concebido." — **WordPress**
+
+===== Comparacao: WordPress.org vs. WordPress.com =====
+
+Existem duas vertentes distintas da plataforma: o **WordPress.org** (a vertente utilizada no nosso projeto "NekoCafe") e o **WordPress.com**. Pessoalmente, o nosso grupo preferiu a versão **.org** por ser substancialmente mais versátil na sua edição, abrindo uma grande porta de possibilidades e total autonomia para o desenvolvimento do nosso site. 
+
+Para estruturar visualmente as diferenças fundamentais de ambos, apresenta-se o seguinte resumo baseado na literatura (Neuman, 2013):
+
+^ WordPress.org (Instalação Própria) ^ WordPress.com (Serviço Alojado) ^
+| * Instalação no próprio servidor Web / conta de alojamento.\\ * Acesso total ao código-fonte.\\ * Acesso total à base de dados onde a informação está armazenada. | * Serviço de blog e alojamento gratuito (dispensa alojamento próprio).\\ * Configuração, atualizações, segurança e cópias de segurança asseguradas pelo serviço.\\ * Sem acesso a FTP, shell ou modificação do código PHP.\\ * Restrições de conteúdo (ex: conteúdos pagos ou patrocinados). |
+
+===== Segurança e Vulnerabilidades =====
+
+Apesar de o WordPress ser uma plataforma excelente para o desenvolvimento web, o seu ecossistema centralizado em extensões externas torna-o vulnerável a ataques informáticos. Recentemente, a segurança da plataforma foi posta em causa devido a uma vaga de ciberataques que exploraram falhas em extensões:
+
+"Logo após a aquisição dos cerca de 30 plugins criados pela EP, o novo proprietário adicionou a referida vulnerabilidade logo na primeira submissão de código. Embora esta backdoor tenha sido inserida há oito meses, a primeira injeção de malware activa apenas foi registada a 6 de abril de 2026." — **Neto, 2026**
+
+===== Inovação e o Futuro da Web =====
+
+==== 1. Ferramentas de Inteligência Artificial ====
+Além da facilidade de utilização, o WordPress tem procurado integrar as tecnologias mais recentes para auxiliar os criadores de conteúdos. Com a introdução de ferramentas de inteligência artificial diretamente no sistema (IA Nativa), a plataforma deu um salto qualitativo:
+
+"O nosso objetivo com a IA Nativa não é substituir o criador, mas sim dar-lhe 'superpoderes'. Queremos que a tecnologia trate da técnica para que o utilizador se foque na criatividade e na intenção." — **Morey, 2026**
+
+==== 2. Edição Colaborativa (Versão 7.0) ====
+A evolução do WordPress não se limita à inteligência artificial. A recente versão 7.0 focou-se em transformar a ferramenta num espaço de trabalho dinâmico e síncrono, permitindo a edição simultânea por vários utilizadores em tempo real, estabelecendo um marco histórico para o ecossistema:
+
+"A introdução da edição colaborativa não é apenas uma funcionalidade; é a remoção da última barreira que separava o WordPress de ser o sistema operativo definitivo para a web moderna." — **WordPress, 2026**
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/05/30 18:13//

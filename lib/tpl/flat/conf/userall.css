@@ -1,0 +1,9 @@
+/* Forçar o tipo de letra Times New Roman em todo o site */
+body, .dokuwiki, .dw-content {
+    font-family: 'Times New Roman', Times, Georgia, serif !important;
+}
+
+/* Aplicar também aos títulos para manter a consistência */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, Georgia, serif !important;
+}

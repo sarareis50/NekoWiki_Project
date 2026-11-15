@@ -1,0 +1,41 @@
+<html>
+<div style="margin-top: 45px; margin-left: 20px; margin-right: 15px;">
+</html>
+====== MENU PRINCIPAL ======
+  * [[cap1_introducao | 1. INTRODUÇÃO]]
+    * [[cap1_introducao:Tema Do Site |Tema do Site]]
+    * [[cap1_introducao:Objetivos do Trabalho |Objetivos do Trabalho]]
+    * [[cap1_introducao:Público Alvo |Público Alvo]]
+
+  * [[cap2_configuracao | 2. CONFIGURAÇÃO INICIAL]]
+    * [[cap2_configuracao:Instalação do SQL e Wordpress.com |Instalação do SQL e Wordpress.com]]
+    * [[cap2_configuracao:Edição do Site |Edição do Site]]
+    * [[cap2_configuracao: Edição do Site em Wordpress | Edição do Site em Wordpress]]
+
+  * [[cap3_analise_templates | 3. ANÁLISE DE TEMPLATES]]
+    * [[cap3_analise_templates:Template Flat | Template Flat]]
+    * [[cap3_analise_templates:Template Varicolored  | Template  Varicolored ]]
+
+
+  * [[cap4_funcionalidades | 4. FUNCIONALIDADES E PLUGINS]]
+     * [[cap4_funcionalidades:Lista de Conteúdos Principais |Lista de Conteúdos Principais]]
+     * [[cap4_funcionalidades:Funcionalidades Principais |Funcionalidades Principais]]
+
+----
+
+  * [[cap5_conclusao | 5. CONCLUSÃO]]
+     * [[cap5_conclusao: Publicacao e Teste do Site | Publicacao e Teste do Site]]
+     * [[cap5_conclusao:Curiosidades sobre o Wordpress |Curiosidades sobre o Wordpress]]
+     * [[cap5_conclusao:Conclusões |Conclusões]]
+
+  * [[cap6_contactos | 6. CONTACTOS]]
+     * [[cap6_contactos: Contacte-nos! | Contacte-nos]]
+
+====== GRUPO DE TRABALHO ======
+  * [[Utilizador:sara | 👤 Sara Andrade]]
+  * [[Utilizador:miguel | 👤 Miguel Oliveira]]
+
+
+<html>
+</div>
+</html>

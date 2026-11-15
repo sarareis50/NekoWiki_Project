@@ -1,0 +1,21 @@
+===== Instalação do SQL e WordPress.org =====
+O processo de preparação do ambiente de desenvolvimento local e instalação do Sistema de Gestão de Conteúdos (CMS) seguiu os seguintes passos estruturados:
+
+* **Download do WordPress:** O processo iniciou-se com o acesso ao site oficial ''wordpress.org'' para descarregar a versão estável do software.
+
+* **Configuração no XAMPP:** Após a transferência, a pasta compactada do WordPress foi extraída e transferida para o diretório de servidores locais do XAMPP, especificamente dentro de ''htdocs > websites''. Para simplificar o desenvolvimento, a pasta do projeto foi renomeada para ''wordpress4''.
+
+* **Ativação dos Serviços:** Através do Painel de Controlo do XAMPP, foram inicializados os módulos do servidor web (**Apache**) e do sistema de gestão de bases de dados (**MySQL**).
+
+* **Criação da Base de Dados (via phpMyAdmin):**
+  * Acedeu-se à interface ''phpMyAdmin'' onde se criou uma nova base de dados autónoma chamada ''wordp4''.
+  * Na secção de contas de utilizador (''User Accounts''), foi configurado um utilizador específico designado ''wordp4_user'' associado ao ''localhost'', com uma palavra-passe definida (''123abc!'').
+  * Foram atribuídos e salvos todos os privilégios globais e específicos da base de dados a este utilizador para garantir a comunicação correta do sistema.
+
+* **Configuração dos Ficheiros de Sistema:** No diretório do projeto, o ficheiro ''wp-config-sample.php'' foi renomeado para ''wp-config.php''. Utilizando o editor de código ''Visual Studio Code'', alteraram-se as diretivas de texto para mapear o nome correto da base de dados, utilizador e password configurados anteriormente.
+
+* **Instalação no Browser:** Com o ambiente SQL pronto, acedeu-se ao endereço ''localhost/websites/wordpress4/wp-admin/install.php'' no navegador. Foi selecionado o idioma inglês e inseriram-se os dados de configuração do site (Título do site definido como "TESTE" para demonstração, além do utilizador administrador e e-mail). O processo foi concluído com sucesso, direcionando os estudantes para o ecrã de login oficial (''wp-login.php'').
+
+{{ :cap2_configuracao:phpmyadmin-xampp.webp |}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/01 20:31//

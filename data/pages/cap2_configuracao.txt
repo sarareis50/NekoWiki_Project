@@ -1,0 +1,104 @@
+====== Conceção, Instalação, Criação e Produção do Site ======
+
+Este capítulo descreve de forma detalhada todo o processo prático de desenvolvimento do website **NekoCafé**, desde a instalação das ferramentas base locais até à edição estrutural de conteúdos e posterior publicação para testes públicos.
+
+=====  Instalação, Criação e Produção do Site =====
+
+====  Instalação do SQL e WordPress.com ====
+O processo de preparação do ambiente de desenvolvimento local e instalação do Sistema de Gestão de Conteúdos (CMS) seguiu os seguintes passos estruturados:
+
+* **Download do WordPress:** O processo iniciou-se com o acesso ao site oficial ''wordpress.org'' para descarregar a versão estável do software.
+
+* **Configuração no XAMPP:** Após a transferência, a pasta compactada do WordPress foi extraída e transferida para o diretório de servidores locais do XAMPP, especificamente dentro de ''htdocs > websites'']. Para simplificar o desenvolvimento, a pasta do projeto foi renomeada para ''wordpress4''.
+
+* **Ativação dos Serviços:** Através do Painel de Controlo do XAMPP, foram inicializados os módulos do servidor web (**Apache**) e do sistema de gestão de bases de dados (**MySQL**).
+
+* **Criação da Base de Dados (via phpMyAdmin):**
+  * Acedeu-se à interface ''phpMyAdmin'' onde se criou uma nova base de dados autónoma chamada ''wordp4''.
+  * Na secção de contas de utilizador (''User Accounts''), foi configurado um utilizador específico designado ''wordp4_user'' associado ao ''localhost'', com uma palavra-passe definida (''123abc!'').
+  * Foram atribuídos e salvos todos os privilégios globais e específicos da base de dados a este utilizador para garantir a comunicação correta do sistema.
+
+* **Configuração dos Ficheiros de Sistema:** No diretório do projeto, o ficheiro ''wp-config-sample.php'' foi renomeado para ''wp-config.php''. Utilizando o editor de código ''Visual Studio Code'', alteraram-se as diretivas de texto para mapear o nome correto da base de dados, utilizador e password configurados anteriormente.
+
+* **Instalação no Browser:** Com o ambiente SQL pronto, acedeu-se ao endereço ''localhost/websites/wordpress4/wp-admin/install.php'' no navegador. Foi selecionado o idioma inglês e inseriram-se os dados de configuração do site (Título do site definido como "TESTE" para demonstração, além do utilizador administrador e e-mail). O processo foi concluído com sucesso, direcionando os estudantes para o ecrã de login oficial (''wp-login.php'').
+
+==== Edição do Site em WordPress ====
+
+===  Tema ===
+Para o desenvolvimento do design visual e transmissão de um ambiente acolhedor, foram testados 8 temas diferentes. O grupo optou por selecionar e ativar o **"The Coffee Shop"** como tema base, dada a sua estética perfeitamente alinhada com o nicho de mercado de um café.
+
+=== Plugins ===
+A fim de manter uma estrutura limpa e sem sobreposições de código, recorreu-se apenas a três plugins essenciais adicionais:
+* **Contact Form 7:** Utilizado para a estruturação e programação de formulários de recolha de dados.
+* **Superb Addons:** Aplicado para a criação e estilização da lista dinâmica de Perguntas Frequentes (FAQ).
+* **WP Go Maps:** Integrado para renderizar um mapa interativo com as localizações do estabelecimento.
+
+===  Cabeçalho e Rodapé (Header/Footer) ===
+O website conta com um total de nove páginas. O cabeçalho foi editado nativamente no editor de blocos para incluir o menu de navegação global completo e o nome do espaço (''NekoCafe''). No rodapé, removeram-se blocos desnecessários, adicionaram-se hiperligações para as redes sociais (LinkedIn, Facebook e Instagram) para reforçar a credibilidade, e estruturaram-se os textos de "Horário de Funcionamento", "Localização" e "Contactos".
+
+===  Páginas e Estrutura de Blocos ===
+A construção de conteúdos foi baseada numa organização hierárquica por grupos de blocos (Layouts de Colunas, Imagens e Parágrafos):
+
+* **Home (Front Page):** Organizada em 6 grupos de blocos combinando elementos do template com edições personalizadas de cores, textos e imagens promocionais (destacando os blocos "Mais que um Café", "A Tua Experiência" e a apresentação rápida dos gatos residentes)[cite: 1].
+
+* **Reserva:** Composta por 3 blocos principais, incluindo um cabeçalho, um formulário personalizado de marcação e uma secção de testemunhos de clientes ("O que dizem os nossos humanos favoritos?").
+
+* **Menu e Subpáginas:** O Menu divide-se em 4 blocos e ramifica-se em duas páginas dedicadas:
+  * ''CAFÉS & RONRONS'': Ementa completa dividida em secções que apresentam o catálogo de bebidas (ex: Pumpkin Spice Latte, Meow-chiato).
+  * ''MIMOS DO BIGODE'': Apresentação detalhada da ementa de pastelaria e aperitivos alimentares.
+
+* **Os Nossos Patudos:** Página de listagem dos felinos disponíveis para adoção (organizada em secções de 3 gatos com cores de fundo alternadas). Tem associada a página de **Notícias**, construída através de um bloco de ''Blog-feed'' com barra de pesquisa, comentários ativos e publicação de posts (ex: "O Mistério das Colheres Desaparecidas").
+
+* **Adoção:** Interface minimalista que aloja o formulário estruturado "Jornada da Adoção" com campos específicos para recolha de dados do adotante e do futuro lar.
+
+* **Contactos:** Composta por 6 blocos que reúnem informações de atendimento, direções com hiperligações para o Google Maps, um mapa interativo do plugin WP Go Maps que assinala as instalações de Lisboa e do Porto, e um acordeão interativo de FAQ.
+
+=====  CSS Adicional =====
+
+Para conferir uma identidade visual moderna e interativa ao projeto, foram criadas estilizações costumizadas via CSS. Aplicou-se a classe ''.hover_imagem'' a quase todas as imagens do site, gerando um efeito visual dinâmico de aproximação (scale) e elevação (translate) quando o utilizador passa o rato sobre elas.
+
+Exemplo do código de estilização em folha de estilo global:
+<code>
+.hover_imagem {
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(75, 56, 50, 0.15);
+  transition: all 0.4s ease-in-out;
+  display: block;
+  overflow: hidden;
+}
+.hover_imagem:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 20px 40px rgba(75, 56, 50, 0.3);
+  cursor: pointer;
+}
+</code>
+
+Adicionalmente, os formulários gerados pelo plugin ''Contact Form 7'' (nas páginas de Reserva e Adoção) receberam formatação CSS incorporada na própria linha (''in-line'') para customizar as margens, fontes tipográficas (como 'Quicksand' e 'Pacifico'), fundos e bordas arredondadas.
+
+===== Publicação e Teste do Site =====
+
+Para simular o comportamento do website num ambiente de produção real acessível fora do servidor local (localhost), procedeu-se à publicação temporária utilizando a ferramenta **ngrok**:
+
+1. **Instalação:** Foi efetuado o download da versão do ngrok através da Microsoft Store.
+
+2. **Autenticação:** Inseriu-se o token de autenticação fornecido pelo serviço na linha de comandos para validar a conta do utilizador.
+
+3. **Abertura de Porta:** Executou-se o comando ''ngrok http 80'' para efetuar o mapeamento e redirecionamento de tráfego do porto local padrão.
+
+4. **Obtenção do Link:** O utilitário disponibilizou um endereço público encriptado em ''Forwarding'' (''https://encrust-moonrise-sympathy.ngrok-free.dev'').
+
+5. **Configuração no WordPress:** No diretório do projeto ''wordpress3'', abriu-se o ficheiro de configuração do sistema (''wp-config.php'') e injetou-se o código de remapeamento de URLs e forcing de segurança:
+
+<code>
+// URLs do site para ngrok
+define('WP_HOME', 'https://encrust-moonrise-sympathy.ngrok-free.dev/websites/wordpress3');
+define('WP_SITEURL', 'https://encrust-moonrise-sympathy.ngrok-free.dev/websites/wordpress3');
+// Forçar HTTPS
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+  $_SERVER['HTTPS'] = 'on';
+}
+</code>
+
+6. **Validação:** O funcionamento correto dos caminhos e ligações do site foi testado com sucesso através do modo de navegação anónima do Google Chrome e através do Microsoft Edge, contornando os avisos de segurança da plataforma de túnel.
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 14:16//

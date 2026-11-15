@@ -1,0 +1,47 @@
+===== Edição do Site em WordPress =====
+
+===== Tema =====
+Para o desenvolvimento do design visual e transmissão de um ambiente acolhedor, foram testados 8 temas diferentes. O grupo optou por selecionar e ativar o **"The Coffee Shop"** como tema base, dada a sua estética perfeitamente alinhada com o nicho de mercado de um café.
+
+{{:cap1_introducao:imagem_2026-05-28_104348225.png?direct|}}
+
+===== Plugins =====
+A fim de manter uma estrutura limpa e sem sobreposições de código, recorreu-se apenas a três plugins essenciais adicionais:
+
+**Contact Form 7:** Utilizado para a estruturação e programação de formulários de recolha de dados.
+
+{{url>https://www.youtube.com/embed/iwfGPl6-p2c?si=Zymg9Ho0d0QuPfQO}}
+
+* **Superb Addons:** Aplicado para a criação e estilização da lista dinâmica de Perguntas Frequentes (FAQ).
+
+{{url>https://www.youtube.com/embed/ZeogOxqdKJI?si=-V_fZ0TP0ok6AATR}}
+
+* **WP Go Maps:** Integrado para renderizar um mapa interativo com as localizações do estabelecimento.
+
+{{url>https://www.youtube.com/embed/ujCaoKbxqPE?si=JnMHNpOvCDGVThIS}}
+
+==== CSS Adicional ====
+
+Para conferir uma identidade visual moderna e interativa ao projeto, foram criadas estilizações costumizadas via CSS. Aplicou-se a classe .hover_imagem a quase todas as imagens do site, gerando um efeito visual dinâmico de aproximação (scale) e elevação (translate) quando o utilizador passa o rato sobre elas.
+
+Exemplo do código de estilização em folha de estilo global:
+
+.hover_imagem {
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(75, 56, 50, 0.15);
+  transition: all 0.4s ease-in-out;
+  display: block;
+  overflow: hidden;
+}
+.hover_imagem:hover {
+  transform: translateY(-10px) scale(1.05);
+  box-shadow: 0 20px 40px rgba(75, 56, 50, 0.3);
+  cursor: pointer;
+}
+
+Adicionalmente, os formulários gerados pelo plugin Contact Form 7 (nas páginas de Reserva e Adoção) receberam formatação CSS incorporada na própria linha (in-line) para customizar as margens, fontes tipográficas (como 'Quicksand' e 'Pacifico'), fundos e bordas arredondadas.
+
+==== Cabeçalho e Rodapé (Header/Footer) ====
+O website conta com um total de nove páginas. O cabeçalho foi editado nativamente no editor de blocos para incluir o menu de navegação global completo e o nome do espaço (''NekoCafe''). No rodapé, removeram-se blocos desnecessários, adicionaram-se hiperligações para as redes sociais (LinkedIn, Facebook e Instagram) para reforçar a credibilidade, e estruturaram-se os textos de "Horário de Funcionamento", "Localização" e "Contactos".
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/01 20:27//

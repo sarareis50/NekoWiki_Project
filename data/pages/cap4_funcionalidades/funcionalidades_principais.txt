@@ -1,0 +1,24 @@
+====== 1. Funcionalidades Principais ======
+
+Esta página documenta as funcionalidades centrais desenvolvidas para o website do **Neko Café**, divididas pela sua tipologia e pela estrutura de navegação do utilizador.
+
+As interações avançadas e os serviços do site assentam na implementação de funcionalidades de formulários, mapas e dinâmicas de fidelização:
+
+^ Funcionalidade ^ Descrição ^ Plugin Associado / Técnica ^
+| **Formulário de Inscrição para Adoção** |Permite aos interessados recolher dados de forma estruturada e iniciar o processo de adoção diretamente online]. | Contact Form 7 |
+| **Formulário de Reserva de Mesas** | Permite o agendamento prévio de mesas para visitas ao espaço. | Contact Form 7 / Superb Addons  |
+| **Mapa Interativo de Localizações** |Integração de um mapa com marcações geográficas precisas para as duas lojas físicas (Lisboa e Porto). | WP Go Maps|
+| **Lista de Perguntas Frequentes (FAQ)** |Bloco interativo em lista expansível para esclarecimento rápido de dúvidas aos utilizadores]. | Superb Addons  |
+| **Pesquisa e Blog-feed Dinâmico** |Sistema na página de notícias que permite pesquisar artigos e atualizações por tags ou palavras-chave, incluindo área de comentários. | Nativo do WordPress / Bloco de Blog-feed  |
+| **Fidelização e Recompensas (Futuro)** |Dinâmica em que utilizadores que efetuem doações ao café podem acumular créditos para descontar nos produtos vendidos. | Sistema de Créditos / Utilizadores |
+
+===== 2. Customização Visual e Estilização (CSS) =====
+
+[cite_start]Para garantir a identidade única do projeto e uma interface mais rica, foram aplicadas regras de estilização personalizadas além das fornecidas pelo template base:
+
+  * **Efeito Hover nas Imagens:** Quase todas as imagens do site receberam a classe personalizada ''hover_imagem'', gerando um efeito visual marcante e dinâmico quando o utilizador passa o rato por cima.
+  * **Estilização de Formulários:** Aplicação de propriedades CSS ''inline'' customizadas nos formulários de **Adoção** e de **Reservas** criados via Contact Form 7, de modo a integrá-los melhor com o design do site.
+  * **Alternância de Cores:** Divisão de secções (como na listagem de gatinhos em "Os Nossos Patudos") separadas por cores de fundo alternadas para facilitar a leitura.
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 14:56//
+

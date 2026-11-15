@@ -1,0 +1,7 @@
+base     fictive
+author   desbest
+email    afaninthehouse@gmail.com
+date     2022-05-31
+name     Fictive Template
+desc     Designed by Automattic and converted by desbest
+url      https://www.dokuwiki.org/template:fictive

@@ -1,0 +1,29 @@
+====== 6. CONTACTOS ======
+
+Este projeto foi desenvolvido no âmbito da unidade curricular de Desenvolvimento e Gestão de Conteúdos Web, integrada no 1º ano do Curso Técnico Superior Profissional (CTeSP) / Licenciatura em **Desenvolvimento Web e Multimédia (DWM)** na **ESTG** (Escola Superior de Tecnologia e Gestão).
+
+Caso pretenda esclarecer alguma dúvida sobre a arquitetura de informação desta Wiki, o desenvolvimento do website "Neko Café" em WordPress ou o estudo comparativo de templates, entre em contacto com a equipa de desenvolvimento:
+
+---
+
+===== Equipa de Desenvolvimento =====
+
+=== Sara Andrade ===
+  * **Instituição:** Escola Superior de Tecnologia e Gestão (ESTG)
+  * **Curso:** Desenvolvimento Web e Multimédia (DWM) - 1º Ano
+  * **E-mail Académico:** [[mailto:36264@estg.ipvc.pt|36265@estg.ipvc.pt]]
+  * **Funções no Projeto:** Design de conteúdos, configuração do CMS e auditoria de usabilidade.
+
+=== Miguel Oliveira ===
+  * **Instituição:** Escola Superior de Tecnologia e Gestão (ESTG)
+  * **Curso:** Desenvolvimento Web e Multimédia (DWM) - 1º Ano
+  * **E-mail Académico:** [[mailto:36641@estg.ipvc.pt|36641@estg.ipvc.pt]]
+  * **Funções no Projeto:** Administração da base de dados (SQL), gestão técnica da Wiki e análise de sintaxe.
+
+---
+
+===== Informações Institucionais =====
+
+  * **Estúdio de Desenvolvimento:** NekoWiki Studio
+  * **Plataforma de Documentação:** DokuWiki (Template Varicolored)
+  * **Website Principal:** WordPress (Neko Café)

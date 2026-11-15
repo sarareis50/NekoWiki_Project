@@ -1,0 +1,28 @@
+====== ANÁLISE DE TEMPLATES ======
+
+A escolha do ambiente gráfico para um sistema de gestão de conhecimento como o DokuWiki é um fator crítico, impactando diretamente a legibilidade da informação e a experiência do utilizador (UX). Nesta secção, apresentamos um estudo comparativo entre os dois templates instalados e testados ao longo do projeto: o **Template Flat** e o **Template Varicolored**.
+
+Para garantir uma avaliação justa e rigorosa, ambos os temas foram submetidos a uma auditoria baseada em quatro eixos fundamentais:
+
+===== Critérios de Avaliação =====
+
+  * **Arquitetura Visual e Identidade Gráfica:** Análise da paleta de cores, tipografia, contraste e impacto visual em leituras prolongadas.
+  * **Usabilidade (UX) e Estrutura de Navegação:** Avaliação da disposição dos menus, comportamento da barra lateral (*sidebar*) e responsividade em dispositivos móveis.
+  * **Compatibilidade Técnica e Desafios de Sintaxe:** Teste de resistência do template a elementos de sintaxe complexos do DokuWiki e a potenciais conflitos com plugins.
+  * **Tabela de Análise (Matriz SWOT):** Mapeamento objetivo das Forças, Oportunidades, Fraquezas e Ameaças de cada tema.
+
+===== Páginas de Avaliação =====
+
+Explore a análise detalhada de cada um dos templates nos links abaixo:
+  * **[[cap3_analise_templates:template_flat|Análise do Template Flat]]**
+  * **[[cap3_analise_templates:template_varicolored|Análise do Template Varicolored]]**
+
+---
+
+===== Veredicto e Escolha da Equipa =====
+
+Após a fase de testes, a optámos por fixar o **Template Varicolored** como o tema oficial da nossa Wiki. 
+
+Esta decisão baseou-se em dois fatores principais:
+1. **Ambiente e Identidade:** O ambiente visual proporcionado pelo *Varicolored* revelou-se muito mais imersivo e adequado à identidade do projeto "**Neko Café**", principalmente devido à capacidade de mapeamento de cores personalizadas por *namespace*.
+2. **Ciclo de Vida do Software:** Embora o template *Flat* apresente um conceito minimalista interessante, verificou-se que não tem sofrido qualquer tipo de atualizações nos últimos anos. Por estar ligeiramente desatualizado (//outdated//), o seu uso a longo prazo poderia comprometer a segurança ou a compatibilidade com novos plugins, tornando o *Varicolored* a opção mais estável e segura para o futuro do site.

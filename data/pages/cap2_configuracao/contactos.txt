@@ -1,0 +1,27 @@
+====== Página de Contactos ======
+
+A página de Contactos encerra o ciclo de navegação do site, assumindo um papel crítico na conversão e na acessibilidade do utilizador. Desenhada com um layout direto e intuitivo, esta secção foi projetada para remover qualquer barreira de comunicação, permitindo que potenciais clientes, adotantes ou parceiros entrem em contacto com a equipa do "Neko Café" de forma rápida e eficaz.
+
+O principal objetivo de design e usabilidade (UI/UX) nesta página foi a centralização de todas as vias de suporte e localização num único ecrã, estruturado de forma limpa e profissional.
+
+Para a sua implementação no WordPress, foram destacados e configurados os seguintes elementos funcionais:
+  * **Blocos de Contacto Direto:** Disposição clara do endereço de e-mail, número de telefone e horário de funcionamento, permitindo uma leitura imediata;
+  * **Ícones Informativos:** Utilização de elementos gráficos minimalistas (como ícones de carta e telefone) para categorizar visualmente cada canal de comunicação;
+  * **Formulário de Mensagem Direta:** Integração de uma caixa de mensagem simplificada para que o utilizador possa enviar dúvidas ou sugestões sem precisar de sair do navegador.
+
+ Composta por 6 blocos que reúnem informações de atendimento, direções com hiperligações para o Google Maps, um mapa interativo do plugin WP Go Maps que assinala as instalações de Lisboa e do Porto, e um acordeão interativo de FAQ.
+
+
+Seguem-se as capturas de ecrã que ilustram a interface final e a organização dos blocos de suporte na página de Contactos:
+
+{{:cap2_configuracao:picture21.png?nolink|}}
+
+{{:cap2_configuracao:picture22.png?nolink|}}
+{{:cap2_configuracao:picture23.png?nolink|}}
+{{:cap2_configuracao:picture24.png?nolink|}}
+{{:cap2_configuracao:picture25.png?nolink|}}
+{{:cap2_configuracao:picture26.png?nolink|}}
+{{:cap2_configuracao:picture27.png?nolink|}}
+{{:cap2_configuracao:picture28.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 15:31//

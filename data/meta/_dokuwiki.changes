@@ -1,0 +1,54 @@
+1780587146	100.73.216.26	C	cap3_analise_templates:template_flat	miguel	created		4031
+1780587173	100.73.216.26	E	cap3_analise_templates:template_flat	miguel	[2. Usabilidade (UX) e Estrutura de Navegação] 		-1
+1780588261	100.73.216.26	C	cap4_funcionalidades:lista_de_conteudos_principais	miguel	created		856
+1780588509	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel			777
+1780588531	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[Funcionalidades e Plugins] 		3
+1780588590	100.73.216.26	D	cap4_funcionalidades:lista_de_conteudos_principais	miguel	removed		-1636
+1780588603	100.73.216.26	C	cap4_funcionalidades	miguel	created		1636
+1780588990	100.73.216.26	C	cap4_funcionalidades:lista_de_conteudos_principais	miguel	created		2613
+1780589025	100.73.216.26	E	sidebar	miguel	[MENU PRINCIPAL] 		0
+1780589195	100.73.216.26	E	cap1_introducao	miguel			-3
+1780589661	::1	E	cap4_funcionalidades	sara			-41
+1780589724	::1	E	cap4_funcionalidades	sara			-24
+1780589762	::1	R	cap4_funcionalidades	sara	old revision restored (2026/06/04 18:14)	1780589661	24
+1780589878	100.73.216.26	C	cap5_conclusao	miguel	created		1457
+1780591182	100.73.216.26	E	cap5_conclusao	miguel	[Estrutura de Conteúdos] 		-192
+1780591206	100.73.216.26	E	cap5_conclusao	miguel	[Estrutura de Conteúdos] 		2
+1780591271	100.73.216.26	E	cap5_conclusao	miguel	[Estrutura de Conteúdos] 		-17
+1780591527	100.73.216.26	E	cap5_conclusao	miguel	[Estrutura de Conteúdos] 		-261
+1780591823	100.73.216.26	E	cap5_conclusao	miguel	[5. CONCLUSÃO] 		4
+1780592983	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel			2577
+1780593007	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel			-8
+1780593109	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel			-2281
+1780594055	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		40
+1780594172	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		223
+1780594330	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		-96
+1780594763	100.73.216.26	C	cap3_analise_templates	miguel	created		645
+1780594925	100.73.216.26	E	cap3_analise_templates	miguel			1674
+1780595026	100.73.216.26	E	cap3_analise_templates	miguel	[Veredicto e Escolha da Equipa] 		0
+1780595134	100.73.216.26	E	cap3_analise_templates	miguel	[Páginas de Avaliação] 		48
+1780595207	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		9
+1780595293	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		1
+1780595400	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		48
+1780595445	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		-60
+1780595474	100.73.216.26	C	cap6_contactos	miguel	created		9
+1780595571	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		20
+1780595712	100.73.216.26	E	cap6_contactos	miguel			1539
+1780595899	100.73.216.26	E	cap6_contactos	miguel			-18
+1780596309	100.73.216.26	E	cap6_contactos	miguel	[Equipa de Desenvolvimento] 		-18
+1780596762	100.73.216.26	C	cap6_contactos:contacte-nos	miguel	created		279
+1780596836	100.73.216.26	E	cap6_contactos:contacte-nos	miguel			1086
+1780596899	100.73.216.26	E	cap6_contactos:contacte-nos	miguel			-458
+1780596944	100.73.216.26	E	cap6_contactos:contacte-nos	miguel	[Contactos] 		3
+1780596980	100.73.216.26	E	cap6_contactos:contacte-nos	miguel	[Contactos] 		7
+1780845250	::1	E	cap3_analise_templates	sara			-3
+1780845666	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DO RELATÓRIO TÉCNICO (WIKI)] 		-21
+1780845680	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DA WIKI)] 		-1
+1780845965	100.73.216.26	E	cap2_configuracao:edicao_do_site	miguel			49
+1780846009	100.73.216.26	E	cap2_configuracao:edicao_do_site	miguel			-49
+1780847845	::1	E	cap1_introducao	sara			-9
+1781011321	100.73.216.26	E	cap4_funcionalidades:lista_de_conteudos_principais	miguel	[2. ESTRUTURA DA WIKI] 		-1077
+1781017006	100.73.216.26	C	cap5_conclusao:conclusoes	miguel	created		1152
+1781017519	100.73.216.26	E	cap2_configuracao:edicao_do_site	miguel			3
+1781017587	100.73.216.26	E	cap2_configuracao:edicao_do_site	miguel			33
+1781020127	::1	E	cap5_conclusao:conclusoes	sara			25

@@ -1,0 +1,11 @@
+====== Conclusões ======
+
+No âmbito do projeto de criação da //Wiki NekoWiki//, surgiram alguns desafios, nomeadamente:
+
+  * **A escolha do template**: Encontrar o modelo perfeito que correspondesse a todas as exigências do projeto. Conforme mencionado, optou-se pelo "**Flat**", contudo, devido à falta de atualizações, grande parte das funções básicas não funcionava devidamente.
+  * **A criação de tabelas**: A aprendizagem do código necessário para estruturar certas páginas pareceu, inicialmente, confusa. No entanto, o processo acabou por ser superado com sucesso.
+  * **A resolução de problemas técnicos**: Encontrar a abordagem mais correta para determinadas funcionalidades, tais como a integração de formulários ou a colocação de vídeos na //Wiki//e contrução das tabelas.
+
+Apesar de o início ter sido um pouco complexo, a criação de uma //DokuWiki// revelou-se relativamente fácil assim que compreendemos a sua configuração simples e exclusiva.
+
+Todos os objetivos propostos foram alcançados com sucesso. Acima de tudo, o conteúdo apresenta-se de forma sucinta e legível, garantindo uma navegação bastante prática na //Wiki//.

@@ -1,0 +1,38 @@
+===== Publicação e Teste do Site =====
+
+Para simular o comportamento do website num ambiente de produção real acessível fora do servidor local (localhost), procedeu-se à publicação temporária utilizando a ferramenta **ngrok**:
+
+1. **Instalação:** Foi efetuado o download da versão do ngrok através da Microsoft Store.
+
+2. **Autenticação:** Inseriu-se o token de autenticação fornecido pelo serviço na linha de comandos para validar a conta do utilizador.
+
+3. **Abertura de Porta:** Executou-se o comando ''ngrok http 80'' para efetuar a conexao e redirecionamento do meu localhost padrão  permitindo que serviços que rodam no meu localhost sejam acessados publicamente através de uma URL temporária.
+
+4. **Obtenção do Link:** Um dos elementos do nosso grupo disponibilizou um endereço público encriptado em ''Forwarding'' (''https://encrust-moonrise-sympathy.ngrok-free.dev'').
+
+5. **Configuração no WordPress:** No diretório do projeto ''wordpress3'', abriu-se o ficheiro de configuração do sistema (''wp-config.php'') e injetou-se o código de remapeamento de URLs e forcing de segurança:
+
+<code>
+// URLs do site para ngrok
+define('WP_HOME', 'https://encrust-moonrise-sympathy.ngrok-free.dev/websites/wordpress3');
+define('WP_SITEURL', 'https://encrust-moonrise-sympathy.ngrok-free.dev/websites/wordpress3');
+// Forçar HTTPS
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+  $_SERVER['HTTPS'] = 'on';
+}
+</code>
+
+6. **Validação:** O funcionamento correto dos caminhos e ligações do site foi testado com sucesso através do modo de navegação anónima do Google Chrome e através do Microsoft Edge, contornando os avisos de segurança da plataforma de túnel.
+
+{{url>https://www.youtube.com/embed/gdfxoNfVxMU?si=Dlkhe7GW1-9T4Umq}}
+
+===== Links do Site =====
+
+**Link do Site no servidor normal:** 
+(''https://encrust-moonrise-sympathy.ngrok-free.dev/websites/wordpress3'')
+
+**Link do Site no servidor dos alunos:** 
+(''http://alunos.estg.ipvc.pt/~sarasophiaandrade/wordpress3/'')
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/05/30 18:12//
+

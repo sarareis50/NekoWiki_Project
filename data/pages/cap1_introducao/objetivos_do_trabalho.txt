@@ -1,0 +1,19 @@
+====== 3. Objetivos do trabalho ======
+
+Este site irá detalhar o progresso na construção do site para o Cat Café, cobrindo a fase de desenvolvimento, design e a implementação de funcionalidades principais.
+
+O site foi construído com uma estrutura de 5 páginas principais, cada uma com um propósito específico:
+
+  * **[[cap2_configuracao:home|Home:]]** Serve como a página de entrada, fornecendo uma visão e informações gerais sobre o café, capturando a essência do espaço.
+  * **[[cap2_configuracao:menu|Menu:]]** Uma seção com 2 sub-menus dedicada a apresentar os pratos que o café serve, bem como as bebidas, formatada de forma clara e apetecível.
+  * **[[cap2_configuracao:patudos|Os Nossos Patudos:]]** Esta é a página inclui a apresentação dos nossos gatinhos que frequentam o café à espera de uma família, com fotos e descrições para incentivar a conexão.
+  * **[[cap2_configuracao:noticias|Notícias:]]** É um sub-menu dos "Nossos Patudos" e têm como função ser o diário do café, partilhando novidades sobre eventos especiais, workshops e histórias de sucesso de adoção, reforçando a ligação entre o café e os seus visitantes.
+  * **[[cap2_configuracao:contactos|Contactos:]]** Uma página funcional com todos os contactos e a localização física do café, facilitando a visita dos clientes.
+  * **[[cap2_configuracao:adocao|Adoção:]]** Para facilitar o processo de adoção, esta página contém um formulário para adotar um dos nossos gatinhos, permitindo que os interessados iniciem o processo online.
+  * **[[cap2_configuracao:reserva|Reserva:]]** Esta página está destinasse para quem queria passar um momento agradável no nosso estabelecimento, podem reservar uma mesa sempre que queiram visitar o nosso espaço.
+
+Para a execução e um bom funcionamento do site, e para cumprir os objetivos definidos acima, usámos os seguintes plugins principais:
+
+  * **Contact Form 7:** Este plugin foi fundamental para a criação do formulário de adoção na página "Adoção", permitindo a recolha estruturada dos dados dos candidatos.
+  * **WP Go Maps:** Usado na página "Contactos", este plugin integra um mapa interativo para mostrar de forma precisa a localização dos cafés físicos.
+  * **Superb Addons (Blocks, Patterns & Theme Designer for the Block Editor & FSE):** Uma ferramenta avançada de design integrada no editor de blocos, utilizada para expandir as funcionalidades visuais do site e, especificamente, para a criação e gestão dos formulários de contacto e interação com os visitantes como apresentado na página de "Reserva" e na "Adoção".

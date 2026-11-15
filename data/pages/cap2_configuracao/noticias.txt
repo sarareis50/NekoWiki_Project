@@ -1,0 +1,19 @@
+======  Página de Notícias (Blog) ======
+
+A página de Notícias foi concebida com o intuito de simular um blog dinâmico e interativo para o "Neko Café", funcionando como um espaço para partilha de novidades, eventos e histórias fictícias que envolvem os felinos do espaço. 
+
+O foco principal desta secção foi a criação de uma narrativa envolvente, exemplificada pelo artigo de destaque "O Mistério das Colheres Desaparecidas (e outros crimes!)", que visa prender a atenção do utilizador através do humor e do suspense.
+
+Em termos de desenvolvimento no WordPress, esta página foi configurada como a página de artigos ("Posts") do site. Para a sua organização visual, recorreu-se a elementos que garantem uma leitura fluida, tais como:
+  * **Categorias e Etiquetas (Tags):** Para organizar futuras publicações e facilitar a navegação do utilizador;
+  * **Imagens de Destaque:** Integradas em cada publicação para tornar o feed visualmente apelativo e coerente com a palete de cores do projeto;
+  * **Barra Lateral de Pesquisa:** Um elemento funcional que permite aos utilizadores procurar conteúdos específicos dentro do blog.
+
+Abaixo encontram-se as capturas de ecrã que demonstram a interface final da página de Notícias e a estrutura dos seus artigos:
+
+{{:cap2_configuracao:picture29.png?nolink|}}
+
+{{:cap2_configuracao:picture30.png?nolink|}}
+{{:cap2_configuracao:picture31.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 16:00//

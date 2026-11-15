@@ -1,0 +1,14 @@
+====== INTRODUÇÃO ======
+{{:painting-three-cats-sitting-table_1072138-235958_1_.jpg?direct|}}
+
+Este espaço metodológico e de documentação técnica surge no âmbito da unidade curricular de **Desenvolvimento e Gestão de Conteúdos Web**, integrada no 1º Ano do CTeSP em **Desenvolvimento Web e Multimédia** da Escola Superior de Tecnologia e Gestão (ESTG - IPVC).
+
+O presente trabalho documenta de forma detalhada o processo de planeamento, instalação, configuração, design e publicação do NekoCafé — um website desenvolvido na plataforma WordPress.org. O projeto foca-se na criação de um espaço digital inovador que funde uma componente comercial de cafetaria com uma forte vertente de responsabilidade social direcionada à adoção de felinos.
+
+Para uma navegação estruturada, este capítulo inicial encontra-se dividido nas seguintes secções detalhadas abaixo:
+
+  * **Tema do Site:** Justificação e análise visual do template base escolhido para refletir a identidade do café.
+  * **Objetivos do Trabalho:** O detalhe da estrutura de páginas criadas, formulários e as metas propostas para o desenvolvimento.
+  * **Público-Alvo:** O mapeamento dos utilizadores e clientes finais a quem o espaço e o website se destinam.
+
+Navegue através do menu lateral ou utilize as subpáginas seguintes para explorar as bases conceptuais que deram origem ao site do NekoCafé.

@@ -1,0 +1,19 @@
+====== Página "Mimos do Bigode" ======
+
+A página "Mimos do Bigode" foi criada para dar destaque às especialidades gastronómicas e produtos exclusivos do "Neko Café". Com o selo de qualidade "Sempre frescos", esta secção funciona como uma extensão sensorial do espaço físico, projetada para despertar o interesse de consumo do utilizador através de uma apresentação visual altamente apetecível e organizada.
+
+O desafio de design nesta página foi equilibrar a identidade fofinha do café com uma disposição clara de menu, permitindo que o cliente identifique rapidamente os produtos estrela do estabelecimento (como a pastelaria fina e os cafés temáticos).
+
+No desenvolvimento desta secção no WordPress, foram explorados os seguintes aspetos:
+  * **Fotografia de Produto e Destaques visuais:** Utilização de banners e imagens focadas nos produtos para criar um forte impacto visual logo no topo da página;
+  * **Tipografia e Alinhamento:** Escolha de fontes legíveis e espaçamentos equilibrados para que a leitura dos preços, ingredientes ou descrições seja imediata;
+  * **Consistência de Marca:** Integração harmoniosa do menu com o tema "The Coffee Shop", adaptando as cores e texturas para manter a envolvência do conceito geral do site.
+
+Abaixo encontram-se as capturas de ecrã que ilustram a organização estética e os conteúdos da página "Mimos do Bigode":
+
+{{:cap2_configuracao:picture36.png?nolink|}}
+
+{{:cap2_configuracao:picture37.png?nolink|}}
+{{:cap2_configuracao:picture38.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 16:10//

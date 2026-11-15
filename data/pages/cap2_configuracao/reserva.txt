@@ -1,0 +1,22 @@
+====== Página de Reservas ======
+
+A página de Reservas desempenha um papel fundamental no ecossistema digital do "Neko Café", sendo o principal ponto de conversão onde a intenção do utilizador se transforma numa visita planeada. Sob o mote convidador "Reserve o Seu Momento de Ronrons", esta secção foi desenhada com um foco absoluto na usabilidade (UX), garantindo que o processo de agendamento seja o mais fluído e direto possível.
+
+O objetivo principal de design nesta página foi transmitir confiança e organização, reduzindo a fricção no preenchimento dos dados para evitar que o utilizador desista a meio do processo.
+
+Para o desenvolvimento e estruturação desta secção no WordPress, foram priorizados os seguintes aspetos de interface:
+  * **Módulo de Agendamento Intuitivo:** Disposição clara de campos cruciais para a reserva, tais como a seleção do número de pessoas, data, hora e localização da mesa;
+  * **Estética Limpa e Focada:** Uso de um fundo e de uma tipografia que mantêm a sobriedade necessária para um formulário técnico, sem perder a identidade visual fofinha do resto do site;
+  * **Botão de Ação Destacado (CTA):** Um botão de submissão altamente visível ("Reservar Agora") que indica claramente ao utilizador o passo final para concluir o seu pedido.
+
+Composta por 3 blocos principais, incluindo um cabeçalho, um formulário personalizado de marcação e uma secção de testemunhos de clientes (“O que dizem os nossos humanos favoritos?”).
+
+As capturas de ecrã apresentadas em seguida ilustram o layout funcional e a organização visual da página de Reservas:
+
+{{:cap2_configuracao:picture8.png?nolink|}}
+
+{{:cap2_configuracao:picture9.png?nolink|}}
+{{:cap2_configuracao:picture10.png?nolink|}}
+{{:cap2_configuracao:picture11.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 14:34//

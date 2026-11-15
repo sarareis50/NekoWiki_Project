@@ -1,0 +1,24 @@
+====== Lista de Conteúdos Principais ======
+
+Nesta página, vamos apresentar a lista de conteudos existentes no nosso site **NekoCafe** e tambem a lista de conteúdos aqui da nossa **Wiki**.
+
+===== Lista de Conteúdos do NekoCafé =====
+
+Esta página apresenta o mapeamento estrutural e a arquitetura de informação da nossa plataforma. O ecossistema divide-se em duas grandes vertentes: o website temático do Café com Gatos (**NekoCafé**) e o relatório técnico de desenvolvimento albergado nesta Wiki.
+
+---
+
+===== 1. ARQUITETURA DO WEBSITE (NEKO CAFÉ) =====
+
+O website público do café foi estruturado para garantir uma navegação intuitiva e envolvente para os utilizadores, sendo composto pelas seguintes páginas e secções:
+
+  * **Home:** Serve como a página de entrada, fornecendo uma visão e informações gerais sobre o café, capturando a essência do espaço.
+  * **Menu:** Uma secção com 2 sub-menus dedicada a apresentar os pratos que o café serve, bem como as bebidas, formatada de forma clara e apetecível.
+  * **Os Nossos Patudos:** Esta página inclui a apresentação dos nossos gatinhos que frequentam o café à espera de uma família, com fotos e descrições para incentivar a conexão.
+    * **Notícias (Sub-menu de "Os Nossos Patudos"):** Tem como função ser o diário do café, partilhando novidades sobre eventos especiais, workshops e histórias de sucesso de adoção, reforçando a ligação entre o café e os seus visitantes.
+  * **Adoção:** Para facilitar o processo de adoção, esta página contém um formulário para adotar um dos nossos gatinhos, permitindo que os interessados iniciem o processo online.
+  * **Reserva:** Esta página destina-se a quem queira passar um momento agradável no nosso estabelecimento, permitindo reservar uma mesa sempre que queiram visitar o nosso espaço.
+  * **Contactos:** Uma página funcional com todos os contactos e a localização física do café, facilitando a visita dos clientes.
+
+---
+

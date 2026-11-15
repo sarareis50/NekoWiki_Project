@@ -1,0 +1,30 @@
+====== Contactos ======
+
+Se tiver alguma dúvida sobre o projeto "**NekoCafé**", o desenvolvimento do website ou a estruturação desta __Wiki__, utilize o formulário abaixo. Nós iremos responder a todas as vossas questões com a maior brevidade possível.
+
+---
+
+===== Formulário de Contacto =====
+
+
+<form>
+action mail teste@gmail.com
+textbox "Nome" "=O seu nome"
+email "E-Mail"
+textbox "Assunto"
+textarea "Mensagem"
+submit "Submeter"
+</form>
+
+---
+
+===== Equipa de Desenvolvimento =====
+
+Estamos ao vosso dispor para qualquer esclarecimento técnico ou académico sobre este trabalho.
+
+  * **Sara Andrade**
+    * ''Curso:'' Desenvolvimento Web e Multimédia (DWM) — 1º Ano
+    * ''Instituição:'' Escola Superior de Tecnologia e Gestão (ESTG)
+  * **Miguel Oliveira**
+    * ''Curso:'' Desenvolvimento Web e Multimédia (DWM) — 1º Ano
+    * ''Instituição:'' Escola Superior de Tecnologia e Gestão (ESTG)

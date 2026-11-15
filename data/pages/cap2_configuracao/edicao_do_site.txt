@@ -1,0 +1,19 @@
+====== Edição do Site ======
+
+Para começar com a edição do site, foi necessário encontrar o tema ideal para o nosso projeto.
+
+Fizemos a instalação de vários temas, 8 para ser preciso, e decidimos escolher o “__The Coffee Shop__”, sendo que a nossa loja tem como tema base um café, achámos que seria o tema ideal.
+
+Neste site fizemos nove páginas diferentes. Algumas das páginas têm elementos do próprio template, enquanto outras foram criadas do zero.
+
+<menu col=2,align=center,valign=center >
+  <item>Home||[[cap2_configuracao:home]]| {{cap2_configuracao:home.png?150}}</item>
+  <item>Reserva||[[cap2_configuracao:reserva]]| {{cap2_configuracao:reserva.png?150}}</item>
+  <item>Menu||[[cap2_configuracao:menu]]| {{cap2_configuracao:menu.png?150}}</item>
+  <item>Cafés e Ronrons||[[cap2_configuracao:cafes_ronrons]]| {{cap2_configuracao:menu_cafes.png?150}}</item>
+  <item>Mimos do Bigode||[[cap2_configuracao:mimos_bigode]]| {{cap2_configuracao:mimos.png?150}}</item>
+  <item>Os Nossos Patudos||[[cap2_configuracao:patudos]]| {{cap2_configuracao:patudos.png?150}}</item>
+  <item>Noticias||[[cap2_configuracao:noticias]]| {{cap2_configuracao:noticias.png?150}}</item>
+  <item>Adoção||[[cap2_configuracao:adocao]]| {{cap2_configuracao:adocao.png?150}}</item>
+  <item>Contactos||[[cap2_configuracao:contactos]]| {{cap2_configuracao:contactos.png?150}}</item>
+  </menu>

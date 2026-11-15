@@ -1,0 +1,20 @@
+======  Página de Adoção ======
+
+A página de Adoção representa a vertente social e comunitária do projeto "Neko Café", funcionando como uma ponte entre os animais residentes no espaço e potenciais adotantes. Sob o mote "Jornada da Adoção — Qual gatinho roubou o seu coração?", esta secção foi estruturada para ser visualmente acolhedora, sensível e, acima de tudo, altamente funcional.
+
+O grande objetivo técnico nesta página foi simplificar o processo de manifestação de interesse por parte dos utilizadores, garantindo uma interface clara e direta.
+
+Para o desenvolvimento desta secção no WordPress, destacam-se as seguintes escolhas estruturais:
+  * **Formulários Interativos:** Implementação de um sistema de questionário ou formulário de contacto personalizado para recolha segura dos dados dos candidatos à adoção;
+  * **Fichas de Perfil:** Organização visual com o perfil de cada felino, destacando a sua personalidade, idade e necessidades específicas;
+  * **Chamadas para Ação (CTA):** Botões e elementos de destaque estrategicamente posicionados para guiar o utilizador ao longo do processo de candidatura.
+
+As capturas de ecrã apresentadas em seguida ilustram o design final da página e o layout do formulário integrado:
+
+{{:cap2_configuracao:picture32.png?nolink|}}
+
+{{:cap2_configuracao:picture33.png?nolink|}}
+{{:cap2_configuracao:picture34.png?nolink|}}
+{{:cap2_configuracao:picture35.png?nolink|}}
+
+ --- //[[linareis12345@gmail.com|SaraReis]] 2026/06/02 17:25//
